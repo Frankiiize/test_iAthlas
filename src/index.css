@@ -1,0 +1,40 @@
+/* variables */
+:root {
+  /* variables COLORS*/
+  --white : #ecf0f1;
+  --blue-color: #577de4;
+  --green-dark: #24a35a;
+  --green-light: #57d68d;
+  --black-gray: #555;
+  --error: #f44336;
+  --warning: #fbbf24;
+  /* variables COLORS*/
+  
+  /* variables FONTS*/
+  --font-primary: 'Poppins', sans-serif;
+  --letler-spacing-title: 1.5px;
+  --fs-body-text: 1.8rem;
+  --fs-subtitle: 2.0rem;
+  --fs-title: 2.5rem;
+  --fs-bigger: 3.2rem;
+  /* variables FONTS*/
+  
+}
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+html {
+  font-size: 62.5%;
+}
+body{
+  background-color: var(--blue-color);
+}
+main{
+  width: 100%;
+  max-width: 1024px;
+  margin: 0 auto;
+}
