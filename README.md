@@ -83,7 +83,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://i.ibb.co/nMzPWxn/test-i-athlas.png)
+<a href="https://ibb.co/d4Gmh8L"><img src="https://i.ibb.co/fd4Dcjn/test-i-athlas.png" alt="test-i-athlas" border="0"></a>
 
 
 ### Built With
