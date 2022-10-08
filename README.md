@@ -70,13 +70,15 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-1. Upload a image
+<h2>1. Upload a image</h2>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/gD3xHTQ/test-i-athlas1.png" alt="test-i-athlas1" target="_blank" border="0"></a>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+<ul>
+  <li> Will get the resolution, format , size of this file </li>
+  <li> click on the image and will get the coordinates of the click and the color of that coordinates </li>
+</ul>
 
-2. Will get the resolution, format , size of this file 
-3. click on the image and will get the coordinates of the click and the color of that coordinates
 
 
 <!-- CONTACT -->
